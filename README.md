@@ -1,2 +1,2 @@
-# Innobyte-service-Internship-Project
+# Innobyte-Service-Internship-Project
 This file contains Amazon data analysis
